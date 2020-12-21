@@ -2,7 +2,7 @@
 
 ## Description
 
-The application is a JavaScript exercise that leverages jQuery for DOM manipulation with the goal of creating different Colored Blocks and adding them to the DOM based off of the specific button the user clicks. Additional features will be available for deleting the Colored Blocks and even altering their visual layout.
+This is a client-side exercise to practice conditional rendering and layout. The UI allows a way to manage color swatches for a user. There is a server already built out with all the endpoints needed for the UI interactions. A screenshot is shown below demoing an example of the finished application. There is no mandate to use Material-UI or Bootstrap with this exercise. Have fun with this and use any style library or custom CSS you want in order to create the application.
 
 ### Screen Shot
 
