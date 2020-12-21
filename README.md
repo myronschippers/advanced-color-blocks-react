@@ -1,4 +1,4 @@
-# Color Blocks - Solo Challenge(s)
+# Advanced Color Blocks Challenge
 
 ## Description
 
@@ -14,12 +14,14 @@ The following software is required to run this application.
 
 1. [Node.js](https://nodejs.org/en/)
 
-## Installation
+## Getting Started / Installation
 
-In the terminal from the root of the project directory run the following:
+**!!DO NOT FORK THIS EXERCISE!!**
 
-1. `npm install`
-1. `npm start`
+From the terminal navigate to where you want your project to be located run the following command. Replace `[project-name]` with whatever you want to name your project folder.
+
+1. `npx create-react-app [project-name]`
+1. `cd [project-name]`
 
 This will launch the server at port 5000 so the application can be viewed at [localhost:5000](http://localhost:5000/).
 
