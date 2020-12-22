@@ -1,15 +1,10 @@
-
--- PART 2: these are for the second part of the exercise
-CREATE TABLE pokemon (
-  id serial primary key,
-  name varchar(80),
-  hp integer,
-  att integer,
-  def integer,
-  pic varchar(100)
+CREATE TABLE available_colours (
+	id serial primary key,
+	name varchar(60) not null,
+	hexcode varchar(7) not null
 );
 
-CREATE TABLE attacks (
-  id serial primary key,
-  att
+CREATE TABLE my_palette (
+	id serial primary key,
+	colour_id int references "available_colours" not null
 );
