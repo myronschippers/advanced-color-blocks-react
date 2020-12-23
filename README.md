@@ -1,4 +1,4 @@
-# Advanced Color Blocks Challenge
+# Advanced Color Blocks Exercise
 
 ## Description
 
